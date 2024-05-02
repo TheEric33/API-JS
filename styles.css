@@ -1,0 +1,35 @@
+body{
+    background-color: cornflowerblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  table thead {
+        background:#302b63;
+        color:white;
+    }
+
+    header{
+
+        text-align: center;
+        background-color: white;
+        width: 100%;
+
+    }
+
+    a {
+
+        text-decoration: none;
+        color: black;
+        font-weight: bold;
+
+    }
+    .title{
+
+        padding: 20px;
+
+    }
+    #lim{
+
+        padding: 5px;
+        text-align: right;
+
+    }
